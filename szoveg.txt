@@ -1,5 +1,7 @@
 Megírtam a legelsõ sort a bevásáló listából:
 
+0. Datolya
 1. Kenyér
 2. Tej
 3. Szõlõ
+4. Banán
