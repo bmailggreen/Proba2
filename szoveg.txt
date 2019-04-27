@@ -1,1 +1,4 @@
 Megírtam a legelsõ sort a bevásáló listából:
+
+1. Kenyér
+2. Tej
